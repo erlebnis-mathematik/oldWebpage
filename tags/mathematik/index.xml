@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathematik on Erlebnis Mathematik</title>
+    <title>Mathematik on Erlebnis-Mathematik</title>
     <link>https://erlebnis-mathematik.github.io/tags/mathematik/</link>
-    <description>Recent content in Mathematik on Erlebnis Mathematik</description>
+    <description>Recent content in Mathematik on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Mar 2018 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://erlebnis-mathematik.github.io/tags/mathematik/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eröffnung</title>
-      <link>https://erlebnis-mathematik.github.io/events/er%C3%B6ffnung/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://erlebnis-mathematik.github.io/blog/2018/03/02/er%C3%B6ffnung/</link>
+      <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/events/er%C3%B6ffnung/</guid>
-      <description>Eröffnung wird bald bekanntgegeben</description>
+      <guid>https://erlebnis-mathematik.github.io/blog/2018/03/02/er%C3%B6ffnung/</guid>
+      <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
     </item>
     
     <item>
       <title>Eröffnung</title>
-      <link>https://erlebnis-mathematik.github.io/post/er%C3%B6ffnung/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://erlebnis-mathematik.github.io/events/er%C3%B6ffnung/</link>
+      <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/post/er%C3%B6ffnung/</guid>
-      <description>Eröffnung wird bald bekanntgegeben</description>
-    </item>
-    
-    <item>
-      <title>Das Museum</title>
-      <link>https://erlebnis-mathematik.github.io/post/museum/</link>
-      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://erlebnis-mathematik.github.io/post/museum/</guid>
-      <description>Das Museum zeigt viele interessante Austellungsstücke&amp;hellip;</description>
+      <guid>https://erlebnis-mathematik.github.io/events/er%C3%B6ffnung/</guid>
+      <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
     </item>
     
   </channel>
