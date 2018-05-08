@@ -2,49 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erlebnis-Mathematik</title>
-    <link>https://erlebnis-mathematik.github.io/</link>
+    <link>/</link>
     <description>Recent content on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Mar 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://erlebnis-mathematik.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eröffnung</title>
-      <link>https://erlebnis-mathematik.github.io/blog/2018/03/02/er%C3%B6ffnung/</link>
+      <link>/blog/2018/03/02/er%C3%B6ffnung/</link>
       <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/blog/2018/03/02/er%C3%B6ffnung/</guid>
+      <guid>/blog/2018/03/02/er%C3%B6ffnung/</guid>
       <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
     </item>
     
     <item>
       <title>Eröffnung</title>
-      <link>https://erlebnis-mathematik.github.io/events/er%C3%B6ffnung/</link>
+      <link>/events/er%C3%B6ffnung/</link>
       <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/events/er%C3%B6ffnung/</guid>
+      <guid>/events/er%C3%B6ffnung/</guid>
       <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
     </item>
     
     <item>
       <title>Austellungsstück des Quartals</title>
-      <link>https://erlebnis-mathematik.github.io/blog/2018/02/02/austellungsst%C3%BCck/</link>
+      <link>/blog/2018/02/02/austellungsst%C3%BCck/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/blog/2018/02/02/austellungsst%C3%BCck/</guid>
+      <guid>/blog/2018/02/02/austellungsst%C3%BCck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://erlebnis-mathematik.github.io/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/contact/</guid>
-      <description>Adresse Bahngasse 43</description>
+      <guid>/contact/</guid>
+      <description>Adresse 
+Bahngasse 43 3.Stock 2700 Wiener Neustadt Österreich &amp;nbsp;
+Betreiberin 
+Dr. Gerlinde Faustmann</description>
     </item>
     
   </channel>

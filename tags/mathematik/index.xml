@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematik on Erlebnis-Mathematik</title>
-    <link>https://erlebnis-mathematik.github.io/tags/mathematik/</link>
+    <link>/tags/mathematik/</link>
     <description>Recent content in Mathematik on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Mar 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://erlebnis-mathematik.github.io/tags/mathematik/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/mathematik/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eröffnung</title>
-      <link>https://erlebnis-mathematik.github.io/blog/2018/03/02/er%C3%B6ffnung/</link>
+      <link>/blog/2018/03/02/er%C3%B6ffnung/</link>
       <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/blog/2018/03/02/er%C3%B6ffnung/</guid>
+      <guid>/blog/2018/03/02/er%C3%B6ffnung/</guid>
       <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
     </item>
     
     <item>
       <title>Eröffnung</title>
-      <link>https://erlebnis-mathematik.github.io/events/er%C3%B6ffnung/</link>
+      <link>/events/er%C3%B6ffnung/</link>
       <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/events/er%C3%B6ffnung/</guid>
+      <guid>/events/er%C3%B6ffnung/</guid>
       <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
     </item>
     

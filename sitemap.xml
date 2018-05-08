@@ -3,92 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://erlebnis-mathematik.github.io/blog/2018/03/02/er%C3%B6ffnung/</loc>
+    <loc>/blog/2018/03/02/er%C3%B6ffnung/</loc>
     <lastmod>2018-03-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erlebnis-mathematik.github.io/events/er%C3%B6ffnung/</loc>
+    <loc>/events/er%C3%B6ffnung/</loc>
     <lastmod>2018-03-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erlebnis-mathematik.github.io/blog/2018/02/02/austellungsst%C3%BCck/</loc>
+    <loc>/blog/2018/02/02/austellungsst%C3%BCck/</loc>
     <lastmod>2018-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erlebnis-mathematik.github.io/categories/austellung/</loc>
-    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://erlebnis-mathematik.github.io/blog/</loc>
-    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://erlebnis-mathematik.github.io/categories/</loc>
+    <loc>/categories/austellung/</loc>
     <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://erlebnis-mathematik.github.io/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-03-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://erlebnis-mathematik.github.io/events/</loc>
-    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://erlebnis-mathematik.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://erlebnis-mathematik.github.io/tags/mathematik/</loc>
-    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://erlebnis-mathematik.github.io/tags/museum/</loc>
-    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://erlebnis-mathematik.github.io/categories/museum/</loc>
-    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://erlebnis-mathematik.github.io/tags/rechenschieber/</loc>
+    <loc>/categories/</loc>
     <lastmod>2018-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://erlebnis-mathematik.github.io/tags/st%C3%BCck-des-quartals/</loc>
-    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://erlebnis-mathematik.github.io/tags/</loc>
+    <loc>/</loc>
     <lastmod>2018-03-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://erlebnis-mathematik.github.io/tags/wiener-neustadt/</loc>
+    <loc>/events/</loc>
+    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/mathematik/</loc>
+    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/museum/</loc>
+    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/museum/</loc>
+    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rechenschieber/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/st%C3%BCck-des-quartals/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-03-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wiener-neustadt/</loc>
     <lastmod>2018-03-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>

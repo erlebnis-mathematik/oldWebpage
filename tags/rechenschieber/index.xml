@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rechenschieber on Erlebnis-Mathematik</title>
-    <link>https://erlebnis-mathematik.github.io/tags/rechenschieber/</link>
+    <link>/tags/rechenschieber/</link>
     <description>Recent content in Rechenschieber on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://erlebnis-mathematik.github.io/tags/rechenschieber/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/rechenschieber/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Austellungsstück des Quartals</title>
-      <link>https://erlebnis-mathematik.github.io/blog/2018/02/02/austellungsst%C3%BCck/</link>
+      <link>/blog/2018/02/02/austellungsst%C3%BCck/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/blog/2018/02/02/austellungsst%C3%BCck/</guid>
+      <guid>/blog/2018/02/02/austellungsst%C3%BCck/</guid>
       <description></description>
     </item>
     

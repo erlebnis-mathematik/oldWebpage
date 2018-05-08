@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Erlebnis-Mathematik</title>
-    <link>https://erlebnis-mathematik.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Mar 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://erlebnis-mathematik.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mathematik</title>
-      <link>https://erlebnis-mathematik.github.io/tags/mathematik/</link>
+      <link>/tags/mathematik/</link>
       <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/tags/mathematik/</guid>
+      <guid>/tags/mathematik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Museum</title>
-      <link>https://erlebnis-mathematik.github.io/tags/museum/</link>
+      <link>/tags/museum/</link>
       <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/tags/museum/</guid>
+      <guid>/tags/museum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rechenschieber</title>
-      <link>https://erlebnis-mathematik.github.io/tags/rechenschieber/</link>
+      <link>/tags/rechenschieber/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/tags/rechenschieber/</guid>
+      <guid>/tags/rechenschieber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stück Des Quartals</title>
-      <link>https://erlebnis-mathematik.github.io/tags/st%C3%BCck-des-quartals/</link>
+      <link>/tags/st%C3%BCck-des-quartals/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/tags/st%C3%BCck-des-quartals/</guid>
+      <guid>/tags/st%C3%BCck-des-quartals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wiener Neustadt</title>
-      <link>https://erlebnis-mathematik.github.io/tags/wiener-neustadt/</link>
+      <link>/tags/wiener-neustadt/</link>
       <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://erlebnis-mathematik.github.io/tags/wiener-neustadt/</guid>
+      <guid>/tags/wiener-neustadt/</guid>
       <description></description>
     </item>
     
