@@ -47,7 +47,7 @@ paginate = 10
     defaultDescription = ""
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
+    googleMapsApiKey = "AIzaSyDIX8hO56-VqTQVWdcFDuneSbKh8QcKjPY"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "marsala"
@@ -74,15 +74,16 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><Erlebnis Mathematik</strong>
-        <br>Bahngasse 43
-        <br>3.Stock
-        <br>2700 Wiener Neustadt
-        <br>Österreich
-      </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    address = ""
+    #  address = """<p><Erlebnis Mathematik</strong>
+    #      <br>Bahngasse 43
+    #      <br>3.Stock
+    #      <br>2700 Wiener Neustadt
+  #        <br>Österreich
+ #        </p>
+ #        """
+    latitude = "47.811507"
+    longitude = "16.234999"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -105,4 +106,3 @@ paginate = 10
     enable = true
     title = "News"
     subtitle = "Erfahren Sie mehr über aktuelle Events und Austellungsstücke unseres Museums."
-
