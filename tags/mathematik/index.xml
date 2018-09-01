@@ -6,27 +6,45 @@
     <description>Recent content in Mathematik on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 10:49:20 +0200</lastBuildDate>
     
 	<atom:link href="/tags/mathematik/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eröffnung</title>
-      <link>/blog/2018/03/02/er%C3%B6ffnung/</link>
-      <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
+      <link>/blog/2018/09/01/er%C3%B6ffnung/</link>
+      <pubDate>Sat, 01 Sep 2018 10:49:20 +0200</pubDate>
       
-      <guid>/blog/2018/03/02/er%C3%B6ffnung/</guid>
-      <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
+      <guid>/blog/2018/09/01/er%C3%B6ffnung/</guid>
+      <description>Der offene Raum &amp;ldquo;Erlebnis Mathematik&amp;rdquo; wird am 29. September feierlich eröffnet.</description>
     </item>
     
     <item>
       <title>Eröffnung</title>
-      <link>/events/er%C3%B6ffnung/</link>
-      <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
+      <link>/events/2018/09/01/er%C3%B6ffnung/</link>
+      <pubDate>Sat, 01 Sep 2018 10:49:20 +0200</pubDate>
       
-      <guid>/events/er%C3%B6ffnung/</guid>
-      <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
+      <guid>/events/2018/09/01/er%C3%B6ffnung/</guid>
+      <description>Der offene Raum &amp;ldquo;Erlebnis Mathematik&amp;rdquo; wird am 29. September feierlich eröffnet.</description>
+    </item>
+    
+    <item>
+      <title>Presse-Artikel in NÖN</title>
+      <link>/blog/2018/08/22/rezension/</link>
+      <pubDate>Wed, 22 Aug 2018 17:49:20 +0200</pubDate>
+      
+      <guid>/blog/2018/08/22/rezension/</guid>
+      <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in den niederösterreichischen Nachrichten Woche 32 Jahr 2018 der Artikel &amp;ldquo;Liebeserklärung an die Mathematik&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Presse-Artikel in NÖN</title>
+      <link>/news/2018/08/22/rezension/</link>
+      <pubDate>Wed, 22 Aug 2018 17:49:20 +0200</pubDate>
+      
+      <guid>/news/2018/08/22/rezension/</guid>
+      <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in den niederösterreichischen Nachrichten Woche 32 Jahr 2018 der Artikel &amp;ldquo;Liebeserklärung an die Mathematik&amp;rdquo;.</description>
     </item>
     
   </channel>

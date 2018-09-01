@@ -6,36 +6,72 @@
     <description>Recent content on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 10:49:20 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Eröffnung</title>
+      <link>/blog/2018/09/01/er%C3%B6ffnung/</link>
+      <pubDate>Sat, 01 Sep 2018 10:49:20 +0200</pubDate>
+      
+      <guid>/blog/2018/09/01/er%C3%B6ffnung/</guid>
+      <description>Der offene Raum &amp;ldquo;Erlebnis Mathematik&amp;rdquo; wird am 29. September feierlich eröffnet.</description>
+    </item>
+    
+    <item>
+      <title>Eröffnung</title>
+      <link>/events/2018/09/01/er%C3%B6ffnung/</link>
+      <pubDate>Sat, 01 Sep 2018 10:49:20 +0200</pubDate>
+      
+      <guid>/events/2018/09/01/er%C3%B6ffnung/</guid>
+      <description>Der offene Raum &amp;ldquo;Erlebnis Mathematik&amp;rdquo; wird am 29. September feierlich eröffnet.</description>
+    </item>
+    
+    <item>
+      <title>Objekt der Eröffnung</title>
+      <link>/archiv/2018/09/01/st%C3%BCcker%C3%B6ffnung/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/archiv/2018/09/01/st%C3%BCcker%C3%B6ffnung/</guid>
+      <description>Kepler-Stern</description>
+    </item>
+    
+    <item>
+      <title>Objekt der Eröffnung</title>
+      <link>/blog/2018/09/01/austellungsst%C3%BCck/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/09/01/austellungsst%C3%BCck/</guid>
+      <description>Kepler-Stern</description>
+    </item>
+    
+    <item>
+      <title>Presse-Artikel in NÖN</title>
+      <link>/blog/2018/08/22/rezension/</link>
+      <pubDate>Wed, 22 Aug 2018 17:49:20 +0200</pubDate>
+      
+      <guid>/blog/2018/08/22/rezension/</guid>
+      <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in den niederösterreichischen Nachrichten Woche 32 Jahr 2018 der Artikel &amp;ldquo;Liebeserklärung an die Mathematik&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Presse-Artikel in NÖN</title>
+      <link>/news/2018/08/22/rezension/</link>
+      <pubDate>Wed, 22 Aug 2018 17:49:20 +0200</pubDate>
+      
+      <guid>/news/2018/08/22/rezension/</guid>
+      <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in den niederösterreichischen Nachrichten Woche 32 Jahr 2018 der Artikel &amp;ldquo;Liebeserklärung an die Mathematik&amp;rdquo;.</description>
+    </item>
+    
+    <item>
       <title>Objekt des Sommers 2018</title>
-      <link>/blog/2018/06/10/austellungsst%C3%BCck/</link>
+      <link>/archiv/2018/06/10/st%C3%BCcks2018/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/06/10/austellungsst%C3%BCck/</guid>
-      <description>Die Königsberger Brücken</description>
-    </item>
-    
-    <item>
-      <title>Eröffnung</title>
-      <link>/blog/2018/03/02/er%C3%B6ffnung/</link>
-      <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
-      
-      <guid>/blog/2018/03/02/er%C3%B6ffnung/</guid>
-      <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
-    </item>
-    
-    <item>
-      <title>Eröffnung</title>
-      <link>/events/er%C3%B6ffnung/</link>
-      <pubDate>Fri, 02 Mar 2018 21:49:20 +0200</pubDate>
-      
-      <guid>/events/er%C3%B6ffnung/</guid>
-      <description>Die Eröffnung des Museums steht bald bevor. Der genaue Termin wird in Kürze bekanntgegeben.</description>
+      <guid>/archiv/2018/06/10/st%C3%BCcks2018/</guid>
+      <description>Königsberger Brücken</description>
     </item>
     
     <item>
@@ -45,10 +81,10 @@
       
       <guid>/contact/</guid>
       <description>Adresse 
-Bahngasse 43 3.Stock 2700 Wiener Neustadt Österreich &amp;nbsp;
+Bahngasse 43 3.Stock 2700 Wiener Neustadt Österreich &amp;nbsp; E-Mail: erlebnis.mathematik@gmx.at Telefon: +436763851749
 Betreiberin 
 Dr. G&amp;epsilon;rlinde Faus&amp;tau;m&amp;alpha;nn
-lässt die Schönheit der Mathematik mittels historischer Rechenhilfsmitteln, antiquarischer Instrumente und Bücher, Tafeln, Mathematiker-Biographien, Zahlen und Figuren, Abbildungen und Konstruktionen uva. für Jung und Alt erleben.</description>
+lässt die Schönheit der Mathematik durch historische Rechenhilfsmittel, antiquarischer Instrumente und Bücher, Tafeln, Mathematiker-Biographien, Zahlen und Figuren, Abbildungen und Konstruktionen uva. für Jung und Alt erleben.</description>
     </item>
     
   </channel>
