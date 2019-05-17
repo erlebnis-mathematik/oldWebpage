@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Austellung</title>
       <link>/categories/austellung/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/austellung/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Museum</title>
+      <title>Vorträge</title>
+      <link>/categories/vortr%C3%A4ge/</link>
+      <pubDate>Fri, 26 Apr 2019 17:49:20 +0200</pubDate>
+      
+      <guid>/categories/vortr%C3%A4ge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>museum</title>
       <link>/categories/museum/</link>
-      <pubDate>Sat, 01 Sep 2018 10:49:20 +0200</pubDate>
+      <pubDate>Sun, 30 Sep 2018 10:49:20 +0200</pubDate>
       
       <guid>/categories/museum/</guid>
       <description></description>
