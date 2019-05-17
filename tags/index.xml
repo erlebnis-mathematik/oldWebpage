@@ -6,53 +6,53 @@
     <description>Recent content in Tags on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Sep 2018 10:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Ausstellungsstück</title>
+      <link>/tags/ausstellungsst%C3%BCck/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ausstellungsst%C3%BCck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mathematik</title>
       <link>/tags/mathematik/</link>
-      <pubDate>Sat, 01 Sep 2018 10:49:20 +0200</pubDate>
+      <pubDate>Fri, 26 Apr 2019 17:49:20 +0200</pubDate>
       
       <guid>/tags/mathematik/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Vortrag</title>
+      <link>/tags/vortrag/</link>
+      <pubDate>Fri, 26 Apr 2019 17:49:20 +0200</pubDate>
+      
+      <guid>/tags/vortrag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Museum</title>
       <link>/tags/museum/</link>
-      <pubDate>Sat, 01 Sep 2018 10:49:20 +0200</pubDate>
+      <pubDate>Sun, 30 Sep 2018 10:49:20 +0200</pubDate>
       
       <guid>/tags/museum/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rechenschieber</title>
-      <link>/tags/rechenschieber/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Presse</title>
+      <link>/tags/presse/</link>
+      <pubDate>Wed, 22 Aug 2018 17:49:20 +0200</pubDate>
       
-      <guid>/tags/rechenschieber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stück Des Quartals</title>
-      <link>/tags/st%C3%BCck-des-quartals/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/st%C3%BCck-des-quartals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wiener Neustadt</title>
-      <link>/tags/wiener-neustadt/</link>
-      <pubDate>Sat, 01 Sep 2018 10:49:20 +0200</pubDate>
-      
-      <guid>/tags/wiener-neustadt/</guid>
+      <guid>/tags/presse/</guid>
       <description></description>
     </item>
     
