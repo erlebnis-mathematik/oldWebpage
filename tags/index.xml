@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vortrag</title>
+      <link>/tags/vortrag/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vortrag/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ausstellungsstück</title>
@@ -44,15 +53,6 @@
       <pubDate>Wed, 22 Aug 2018 17:49:20 +0200</pubDate>
       
       <guid>/tags/presse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vortrag</title>
-      <link>/tags/vortrag/</link>
-      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vortrag/</guid>
       <description></description>
     </item>
     
