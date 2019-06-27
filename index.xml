@@ -6,10 +6,20 @@
     <description>Recent content on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vortrag Markus Faustmann</title>
+      <link>/blog/2019/06/27/talkmf2/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/06/27/talkmf2/</guid>
+      <description>Am 30.8.2019 gibt Dr. Markus Faustmann im Erlebnis Mathematik einen geschichtlichen Vortrag mit dem Titel &amp;ldquo;Wie das Dezimalsystem nach Europa kam&amp;rdquo;.
+Mit dem Dezimalsystem zu rechnen, lernen wir in sehr frühem Alter und es ist für uns heute ganz einfach und selbstverständlich. Historisch jedoch hatte das Dezimalsystem als Stellenwertsystem mit Basis 10 und indisch-arabischen Ziffern einen weiten Weg hinter sich, bis es in Europa die unhandlichen römischen Zahlen abgelöst hatte. In unserem Vortrag folgen wir in einer mathematischen Zeitreise den Anfängen des Rechnens in verschiedenen Systemen bis hin zu den Ursprüngen unseres Dezimalsystems in Indien und dessen Verbreitung zunächst in Arabien und später in unseren Breitengraden.</description>
+    </item>
     
     <item>
       <title>Vortrag Daniel Herold</title>
@@ -29,6 +39,28 @@ Als Carl Friedrich Gauß den Auftrag bekam, die Welt zu vermessen, erkannte er s
       <guid>/events/2019/06/16/talkdh/</guid>
       <description>Am 27.6.2019 gibt Daniel Herold einen Vortrag zum Thema &amp;ldquo;Die Vermessung der Welt und alles andere&amp;rdquo;.
 Als Carl Friedrich Gauß den Auftrag bekam, die Welt zu vermessen, erkannte er schnell: da steckt viel mehr dahinter als bloß Längen abzumessen. Bis heute bildet die damals begründete Differentialgeometrie eine fixe Grundlage für viele Anwendungen aus Geodäsie, Architektur und 3D-Modellierung. Neben modernen Computeranwendungen und spannenden Beispielen, darf auch ein kurzer Blick auf das „theorema egregium“ nicht fehlen – ein Satz von Gauß, den er selbst so bedeutsam fand, dass er ihn ganz bescheiden „hervorragender Lehrsatz“ nannte.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Friedrich Faustmann</title>
+      <link>/blog/2019/06/07/talkff/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/06/07/talkff/</guid>
+      <description>Am 7.6.2019 gab DI Dr. Friedrich Faustmann im Erlebnis Mathematik einen Vortrag zu &amp;ldquo;Geschichte der Informatik&amp;rdquo;.
+Beginnend mit alten Rechenhilfsmitteln über die Entwicklung mehrerer Computer-Generationen bis hin zum Zeitalter der Vernetzung wurde ein historischer Streifzug durch die Geschichte der Informatik und ihrer Höhepunkte geboten.
+Nachfolgend finden sich ein paar Impressionen des gut besuchten Vortrags.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Friedrich Faustmann</title>
+      <link>/events/2019/06/07/talkff/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2019/06/07/talkff/</guid>
+      <description>Am 7.6.2019 gab DI Dr. Friedrich Faustmann im Erlebnis Mathematik einen Vortrag zu &amp;ldquo;Geschichte der Informatik&amp;rdquo;.
+Beginnend mit alten Rechenhilfsmitteln über die Entwicklung mehrerer Computer-Generationen bis hin zum Zeitalter der Vernetzung wurde ein historischer Streifzug durch die Geschichte der Informatik und ihrer Höhepunkte geboten.
+Nachfolgend finden sich ein paar Impressionen des gut besuchten Vortrags.</description>
     </item>
     
     <item>
@@ -68,6 +100,16 @@ Auf anschauliche Art wurde ein Einblick in aktuelle Forschungsgebiete der numeri
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/events/2019/03/01/talkmf/</guid>
+      <description>Am 1.3.2019 gab Dr. Markus Faustmann im Erlebnis Mathematik einen Vortrag zu &amp;ldquo;Mathematik jetzt&amp;rdquo; vor vier Generationen von Mathematikern und einigen weiteren Interessierten.
+Auf anschauliche Art wurde ein Einblick in aktuelle Forschungsgebiete der numerischen Mathematik gegeben und einige Simulationen konkreter Problemstellungen vorgeführt.</description>
+    </item>
+    
+    <item>
+      <title>Vortrag Markus Faustmann</title>
+      <link>/events/2019/03/01/talkmf2/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/events/2019/03/01/talkmf2/</guid>
       <description>Am 1.3.2019 gab Dr. Markus Faustmann im Erlebnis Mathematik einen Vortrag zu &amp;ldquo;Mathematik jetzt&amp;rdquo; vor vier Generationen von Mathematikern und einigen weiteren Interessierten.
 Auf anschauliche Art wurde ein Einblick in aktuelle Forschungsgebiete der numerischen Mathematik gegeben und einige Simulationen konkreter Problemstellungen vorgeführt.</description>
     </item>
