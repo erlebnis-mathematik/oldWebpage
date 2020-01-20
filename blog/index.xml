@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Erlebnis-Mathematik</title>
@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vortrag Michael Feischl</title>
+      <link>/blog/2020/01/20/talkmichi/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020/01/20/talkmichi/</guid>
+      <description>Am Freitag, 20. 3. 2020 gibt Univ.-Prof. DI Dr. Michael Feischl im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Die Mathematik der Mondlandung&amp;rdquo;.
+(Quelle: Wikipedia)
+Die Mathematik der Mondlandung — Am 21. Juli 1969 hat Neil Armstrong als erster Mensch den Mond betreten. Eine herausragende ingenieurwissenschaftliche Leistung. Zuvor bedurfte es einiger Antworten: Wie groß muss eine Mondrakete sein? Was ist der schnellste Weg zum Mond? Und wie kommt man wieder zurück?</description>
+    </item>
     
     <item>
       <title>Vortrag Gerold Petritsch</title>
@@ -17,7 +28,7 @@
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/blog/2020/01/05/talkgp/</guid>
-      <description>Am Freitag, 17. 1. 2020 gibt DI Dr. Gerold Petritsch im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Mathematik in der Energiewirtschaft - Rückblick, Status, Ausblick&amp;rdquo;.
+      <description>Am Freitag, 17. 1. 2020 gab DI Dr. Gerold Petritsch im Erlebnis Mathematik einen Vortrag mit dem Titel &amp;ldquo;Mathematik in der Energiewirtschaft - Rückblick, Status, Ausblick&amp;rdquo;.
 (Quelle: Wikipedia)
 DI Dr. Gerold Petritsch arbeitet seit rund 40 Jahren als angewandter Mathematiker in dieser Branche - das löste oft die Frage aus: Wozu hier Mathematik?!
 Der Vortrag versucht sich der Fragestellung in drei miteinander verwobenen Geschichten zu nähern: • Welche mathematischen Gebiete werden in der Energiewirtschaft und speziell in Elektrizitätsunternehmen verwendet und auch weiterentwickelt?</description>
@@ -51,8 +62,8 @@ Mit dem Dezimalsystem zu rechnen, lernen wir in sehr frühem Alter und es ist f�
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/2019/06/16/talkdh/</guid>
-      <description>Am 27.6.2019 gibt Daniel Herold einen Vortrag zum Thema &amp;ldquo;Die Vermessung der Welt und alles andere&amp;rdquo;.
-Als Carl Friedrich Gauß den Auftrag bekam, die Welt zu vermessen, erkannte er schnell: da steckt viel mehr dahinter als bloß Längen abzumessen. Bis heute bildet die damals begründete Differentialgeometrie eine fixe Grundlage für viele Anwendungen aus Geodäsie, Architektur und 3D-Modellierung. Neben modernen Computeranwendungen und spannenden Beispielen, darf auch ein kurzer Blick auf das „theorema egregium“ nicht fehlen – ein Satz von Gauß, den er selbst so bedeutsam fand, dass er ihn ganz bescheiden „hervorragender Lehrsatz“ nannte.</description>
+      <description>Am 27.6.2019 gibt Daniel Herold einen Vortrag zum Thema &amp;quot;Die Vermessung der Welt und alles andere&amp;quot;.
+Als Carl Friedrich Gauß den Auftrag bekam, die Welt zu vermessen, erkannte er schnell: da steckt viel mehr dahinter als bloß Längen abzumessen. Bis heute bildet die damals begründete Differentialgeometrieeine fixe Grundlage für viele Anwendungen aus Geodäsie, Architektur und 3D-Modellierung. Neben modernen Computeranwendungenund spannenden Beispielen, darf auch ein kurzer Blick auf das „theorema egregium“nicht fehlen – ein Satz von Gauß, den er selbst so bedeutsam fand, dass er ihn ganz bescheiden „hervorragender Lehrsatz“ nannte.</description>
     </item>
     
     <item>
@@ -72,8 +83,7 @@ Nachfolgend finden sich ein paar Impressionen des gut besuchten Vortrags.</descr
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/2019/05/15/austellungsst%C3%BCck/</guid>
-      <description>Napierschen Rechenstäbe  
- Die Rechenstäbchen sind benannt nach dem schottischen Mathematiker John Napier (1550-1617), der diese als Hilfsmittel zum Multiplizieren und Dividieren eingeführt hatte. Die Napierschen Stäbchen dienten unter Anderem als Grundlage für die erste Rechenmaschine von Wilhelm Schickard im Jahr 1623. Das Rechnen mit den Napierschen Rechenstäbchen wird im Erlebnis Mathematik detailgenau erklärt.</description>
+      <description>Das Rechnen mit den Napierschen Rechenstäbchen wird im Erlebnis Mathematik detailgenau erklärt.</description>
     </item>
     
     <item>
@@ -93,9 +103,7 @@ Auf anschauliche Art wurde ein Einblick in aktuelle Forschungsgebiete der numeri
       
       <guid>/blog/2018/12/14/talkgf/</guid>
       <description>Am 9.11.2018 gab Dr. Gerlinde Faustmann im Erlebnis Mathematik einen Vortrag zum Thema &amp;ldquo;Adam Ries - Leben und Werk&amp;rdquo;.
- 
 Auf Grund des großen Interesses wurde der Vortrag am 14.12.2018 im Erlebnis Mathematik nochmals wiederholt.
- 
 Gerlinde Faustmann erzählte von Adam Ries Leben, seinen berühmten Rechenbüchern (z.B. &amp;ldquo;Rechenung auff der linihen und federn&amp;rdquo;) und demonstrierte anschaulich das Linienrechnen.
 Das Ziel von Adam Ries ersten Rechenbuches war Kindern das Linienrechnen beizubringen und somit bei der breiten Bevölkerung für ein mathematisches Grundverständnis zu sorgen.</description>
     </item>
@@ -106,14 +114,10 @@ Das Ziel von Adam Ries ersten Rechenbuches war Kindern das Linienrechnen beizubr
       <pubDate>Sun, 30 Sep 2018 10:49:20 +0200</pubDate>
       
       <guid>/blog/2018/09/30/er%C3%B6ffnung/</guid>
-      <description>Der offene Raum &#34;Erlebnis Mathematik&#34; wurde am 29. September 2018 feierlich von Gerlinde Faustmann eröffnet.  
-Wir freuten uns über zahlreiches Erscheinen von Ehrengästen aus der Politik, vom Landesschulrat sowie von den Wiener Neustädter Schulen.
- 
+      <description>Wir freuten uns über zahlreiches Erscheinen von Ehrengästen aus der Politik, vom Landesschulrat sowie von den Wiener Neustädter Schulen.
 Auch über den Besuch von etlichen weiteren an der Mathematik interessierten Gäste freuten wir uns sehr.
- 
 Durch das Programm führte Dr. Cornelia Faustmann.
- 
-Auch zwei fachliche Vorträge &amp;ldquo;Mathematik einst&amp;rdquo; von Dr.</description>
+Auch zwei fachliche Vorträge &amp;ldquo;Mathematik einst&amp;rdquo; von Dr. Christa Binder und &amp;ldquo;Mathematik jetzt&amp;rdquo; von Dr. Markus Faustmann wurden geboten.</description>
     </item>
     
     <item>
