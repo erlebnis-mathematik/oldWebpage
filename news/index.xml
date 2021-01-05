@@ -6,10 +6,30 @@
     <description>Recent content in News on Erlebnis-Mathematik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2019 17:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>QuarZa - Quartett der Geschichte der Zahlen</title>
+      <link>/news/2021/01/05/quartett/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/news/2021/01/05/quartett/</guid>
+      <description>QuarZa - Quartett der Geschichte der Zahlen  
+ Durch das Quartettkartenspiel, das in sechs Themengebiete gegliedert ist, wird ein Eindruck von den Quellen und den ersten Zahlenstarstellungen vermittelt. Im Verlauf des Spiels wird den Spielerinnen und Spielern die lange Entwicklungsgeschichte der Brüche, der Zahl Null sowie jene der negativen und reellen Zahlen bewusst. Das Kartenspiel leistet dabei einen wichtigen Beitrag zur Interessensweckung für die Geschichte der Zahlen sowie zur selbständigen Beschäftigung mit deren Entwicklung.</description>
+    </item>
+    
+    <item>
+      <title>SchauTV - schau LEBEN</title>
+      <link>/news/2020/02/14/schautv/</link>
+      <pubDate>Fri, 14 Feb 2020 17:49:20 +0200</pubDate>
+      
+      <guid>/news/2020/02/14/schautv/</guid>
+      <description>Über &amp;ldquo;Erlebnis Mathematik&amp;rdquo; erschien in SchauTV am 14. Februar 2020 in der Rubrik schau LEBEN ein Kurzbeitrag.
+Link zum Beitrag (Minuten 12:20-15:50)</description>
+    </item>
     
     <item>
       <title>TUForMath</title>
